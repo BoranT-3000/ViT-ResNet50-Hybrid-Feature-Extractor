@@ -2,12 +2,22 @@
 Combined Vision Transformer and ResNet50 Feature Extractors for Enhanced Image Classification
 
 
-Combining Vision Transformer (ViT) and ResNet50 provides powerful performance in image classification tasks. ViT offers a broad perspective for understanding the overall context of an image, while ResNet50 learns details and local features. This combination leverages the strengths of both approaches to achieve more accurate and effective results.
 
-This approach was inspired by the paper 'A Hybrid ResNet-ViT Approach to Bridge the Global and Local Features for Myocardial Infarction Detection.'
-https://www.nature.com/articles/s41598-024-54846-8
+## Introduction
 
-For this project, I used the hongrui/mammogram_v_1 dataset from HuggingFace. This dataset provides a collection of mammogram images that are useful for training and evaluating the hybrid Vision Transformer (ViT) and ResNet50 model for image classification tasks.
+This project was inspired by the paper '[A Hybrid ResNet-ViT Approach to Bridge the Global and Local Features for Myocardial Infarction Detection](https://www.nature.com/articles/s41598-024-54846-8).' The hybrid model combines the strengths of Vision Transformers (ViT) and ResNet50, enhancing the accuracy of image classification tasks by balancing global and local feature extraction.
+
+## Dataset
+
+For this project, the [hongrui/mammogram_v_1](https://huggingface.co/datasets/hongrui/mammogram_v_1) dataset from HuggingFace was used. This dataset provides a collection of mammogram images that are suitable for training and evaluating the hybrid ViT and ResNet50 model for image classification tasks.
+
+## Features
+
+- **Vision Transformer (ViT)**: Provides a broad perspective to understand the overall context of an image.
+- **ResNet50**: Focuses on learning detailed and local features within an image.
+- **Hybrid Approach**: Combines the strengths of ViT and ResNet50 for improved image classification performance.
+- **Adaptable to Various Datasets**: The model can be fine-tuned and adapted to various datasets beyond mammograms.
+
 
 
 ---------------------------------------------------------
