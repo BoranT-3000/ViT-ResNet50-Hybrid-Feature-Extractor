@@ -9,7 +9,7 @@ https://www.nature.com/articles/s41598-024-54846-8
 
 ---------------------------------------------------------
 
-Vision Transformer (ViT) ve ResNet50'yi birleştirmek, görüntü sınıflandırma işlemlerinde güçlü bir performans sunar. ViT, görüntünün genel bağlamını anlamak için geniş bir bakış açısı sağlar, ResNet50 ise detayları ve yerel özellikleri öğrenir. Bu iki modelin birleşimi, her iki yaklaşımın avantajlarını bir araya getirerek daha doğru ve etkili sonuçlar elde edilmesini sağlar.
+Vision Transformer (ViT) ve ResNet50'yi birleştirmek, görüntü sınıflandırma işlemlerinde güçlü bir performans sunar. ViT, görüntünün genel bağlamını anlamak için geniş bir bakış açısı sağlarken, ResNet50 ise detayları ve yerel özellikleri daha iyi öğrenir. Bu iki modelin birleşimi, her iki yaklaşımın avantajlarını bir araya getirerek daha doğru ve etkili sonuçlar elde edilmesini sağlar.
 
 Bu yaklaşımı, 'A Hybrid ResNet-ViT Approach to Bridge the Global and Local Features for Myocardial Infarction Detection' makalesinden esinlenerek geliştirdim.
 
