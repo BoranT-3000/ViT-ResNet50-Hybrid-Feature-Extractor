@@ -7,7 +7,8 @@ Combining Vision Transformer (ViT) and ResNet50 provides powerful performance in
 This approach was inspired by the paper 'A Hybrid ResNet-ViT Approach to Bridge the Global and Local Features for Myocardial Infarction Detection.'
 https://www.nature.com/articles/s41598-024-54846-8
 
-Veri Seti olarak https://huggingface.co/datasets/hongrui/mammogram_v_1
+For this project, I used the hongrui/mammogram_v_1 dataset from HuggingFace. This dataset provides a collection of mammogram images that are useful for training and evaluating the hybrid Vision Transformer (ViT) and ResNet50 model for image classification tasks.
+
 
 ---------------------------------------------------------
 
@@ -15,7 +16,7 @@ Vision Transformer (ViT) ve ResNet50'yi birleştirmek, görüntü sınıflandır
 
 Bu yaklaşımı, 'A Hybrid ResNet-ViT Approach to Bridge the Global and Local Features for Myocardial Infarction Detection' makalesinden esinlenerek geliştirdim.
 
-Veri Seti olarak https://huggingface.co/datasets/hongrui/mammogram_v_1 kullandım.
+Bu proje için HuggingFace'ten hongrui/mammogram_v_1 veri setini kullandım. Bu veri seti, hibrit Vision Transformer (ViT) ve ResNet50 modelinin görüntü sınıflandırma görevleri için eğitilmesi ve değerlendirilmesi amacıyla kullanılmıştır.
 
 
 ## License(Lisans)
